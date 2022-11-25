@@ -1,12 +1,11 @@
-# 💫 About Me:
+# 💫🅞🅟🅐 🅓🅔🅥, 🅑🅔🅜 🅥🅘🅝🅓🅞. 👾
+
 🔭 Hoje estou trabalhando na área de atendimento ao cliente como suporte técnico.<br>🌱 Estudando Desenvolvimento FrontEnd | UI Design | UX Design<br>😄 Pronouns: Ele/Dele
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Miked0&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Miked0&theme=great-gatsby&hide_border=false)
-<div style="display: block; 
-           margin-left: auto;
-           margin-right: auto;>
+<div style="text-align: center;">
             ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miked0&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
