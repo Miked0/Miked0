@@ -15,13 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  ##
- 
-<div> 
 
- 
-  
-  ![Snake animation](https://github.com/miked0/miked0/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
